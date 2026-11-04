@@ -6,7 +6,15 @@ body{
 	padding: 0;
 	margin: 0;
 
+	
+    cursor: url("../images/nat1046.cur"), auto;
+
+
 }
+a {
+    cursor: url("../images/nat1046.cur"), pointer;
+}
+
 
 /*section*/
 section{
