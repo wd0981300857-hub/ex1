@@ -88,6 +88,7 @@ article.flip-card {
     border: none;
     perspective: 1000px;
     vertical-align: top;
+    
 }
 
 /* 整張卡片的超連結 */
@@ -135,6 +136,7 @@ article.flip-card {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border-radius: 10%;
 }
 
 /* 正面角色圖片 */
@@ -153,6 +155,7 @@ article.flip-card {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border-radius: 10%;
 }
 
 
